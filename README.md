@@ -9,7 +9,6 @@
 
 ## `Technologies used`
 
-* React.js
 * Node.JS
 * MongoDB
 * IndexedDB
